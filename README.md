@@ -20,14 +20,6 @@ Shared - widoki które są wyswietlane sie niezależnie od ścieżki
 ## Wykorzystane biblioteki
 - AspNetCore.Mvc
 - EntityFrameworkCore
-- AspNetCore.Authorization
-- EntityFrameworkCore.Migration
-- AspNetCore.Identity.EntityFrameworkCore
-- EntityFrameworkCore.Infrastructure
-- EntityFrameworkCore.Metadata
-- EntityFrameworkCore.Storage.ValueConversion
-- EntityFrameworkCore.Metadata
-- EntityFrameworkCore.Migrations
 
 ## Kompilowanie aplikacji 
 Aplikacja kompilowana jest przy użyciu frameworka ASP.NET w Visual Studio
